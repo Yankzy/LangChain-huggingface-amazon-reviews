@@ -1,1 +1,1 @@
-# cx-analytics
+# Langchan amazon reviews embeddings using huggingface
